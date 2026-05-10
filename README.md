@@ -140,10 +140,4 @@ git commit -m "Initial FAA SDR aircraft maintenance analysis"
 git branch -M main
 git remote add origin https://github.com/YOUR-USERNAME/faa-sdr-aircraft-maintenance-analysis.git
 git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username.
-
-## Notes for academic integrity
-
-This repository is intended to document and reproduce the analysis. The raw data source, cleaning steps, statistical method, and outputs should be reported transparently in the final paper. Do not present code, figures, or results as independently produced if they were materially generated or revised with outside assistance.
+```.
