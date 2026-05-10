@@ -127,17 +127,3 @@ outputs/figures/mean_aircraft_total_time_by_part_condition.png
 ```
 
 It also prints the main statistical results to the terminal.
-
-## Suggested GitHub commands
-
-After unzipping this folder:
-
-```bash
-cd faa-sdr-aircraft-maintenance-analysis
-git init
-git add .
-git commit -m "Initial FAA SDR aircraft maintenance analysis"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/faa-sdr-aircraft-maintenance-analysis.git
-git push -u origin main
-```.
